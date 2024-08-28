@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  text-align: center;
+}
+
+#app {
+  width: 50%;
+  margin: 0 auto;
+}
+
+#task-form input, #task-form textarea {
+  width: 80%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+#task-list {
+  margin-top: 20px;
+}
