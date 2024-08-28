@@ -1,0 +1,7 @@
+TaskMaster/
+├── backend/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   └── index.js
+└── frontend/
